@@ -29,25 +29,3 @@ Visualization: Matplotlib, Seaborn
 
 
 
-🚀 How to Run
-Clone this repo:
-
-bash
-Copy
-Edit
-git clone <repo-link>
-cd smart-expense-analyzer
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the app:
-
-bash
-Copy
-Edit
-streamlit run app.py
-Upload your expense CSV and explore your spending dashboard.
-
